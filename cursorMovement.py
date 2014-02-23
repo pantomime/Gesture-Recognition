@@ -1,6 +1,6 @@
 import pygame, random, sys
 from pygame.locals import *
-import moosegesture
+import cursorMovement
 
 # setup constants
 WINDOWWIDTH = 600
